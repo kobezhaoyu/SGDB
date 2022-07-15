@@ -100,7 +100,7 @@
     <cypher.compatibility.31>3.1.9</cypher.compatibility.31>
     <cypher.compatibility.33>3.3.9</cypher.compatibility.33>
     <caffeine.version>2.6.2</caffeine.version>
-	  <amazon-sdk.version>1.11.524</amazon-sdk.version>
+	  <amazon-sdk.version>1.12.261</amazon-sdk.version>
   </properties>
 
   <modules>
